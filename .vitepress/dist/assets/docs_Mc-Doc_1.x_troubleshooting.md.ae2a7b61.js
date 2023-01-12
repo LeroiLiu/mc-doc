@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as e,a as r}from"./app.9066b828.js";const s=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/Mc-Doc/1.x/troubleshooting.md"}'),a={name:"docs/Mc-Doc/1.x/troubleshooting.md"},n=[r("p",null,"trobvle",-1)];const c=o(a,[["render",function(o,r,s,a,c,l){return e(),t("div",null,n)}]]);export{s as __pageData,c as default};

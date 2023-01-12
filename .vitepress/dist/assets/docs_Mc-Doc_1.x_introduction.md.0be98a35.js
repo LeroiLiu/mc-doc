@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,a as r}from"./app.9066b828.js";const a=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/Mc-Doc/1.x/introduction.md"}'),e={name:"docs/Mc-Doc/1.x/introduction.md"},c=[r("p",null,"intro",-1)];const s=t(e,[["render",function(t,r,a,e,s,i){return n(),o("div",null,c)}]]);export{a as __pageData,s as default};
