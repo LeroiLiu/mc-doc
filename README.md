@@ -1,4 +1,4 @@
-# easywechat.com
+# Mc-Doc
 
 ## Contributing
 
