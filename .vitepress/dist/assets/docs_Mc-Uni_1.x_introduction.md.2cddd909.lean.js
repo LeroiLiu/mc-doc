@@ -1,0 +1,1 @@
+import{_ as t,c as n,o,a as r}from"./app.90c8f902.js";const a=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/Mc-Uni/1.x/introduction.md"}'),e={name:"docs/Mc-Uni/1.x/introduction.md"},i=[r("p",null,"正在编辑中",-1)];const s=t(e,[["render",function(t,r,a,e,s,c){return o(),n("div",null,i)}]]);export{a as __pageData,s as default};

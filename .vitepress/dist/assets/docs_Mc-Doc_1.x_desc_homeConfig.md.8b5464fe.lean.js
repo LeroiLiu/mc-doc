@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,b as l}from"./app.47670e5f.js";const p=JSON.parse('{"title":"主页配置","description":"","frontmatter":{},"headers":[],"relativePath":"docs/Mc-Doc/1.x/desc/homeConfig.md"}'),t={name:"docs/Mc-Doc/1.x/desc/homeConfig.md"},e=[l("",3)];const o=s(t,[["render",function(s,l,p,t,o,c){return a(),n("div",null,e)}]]);export{p as __pageData,o as default};
