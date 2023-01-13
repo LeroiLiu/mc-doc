@@ -1,1 +1,0 @@
-import{_ as t,c as n,o,a as r}from"./app.9066b828.js";const a=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/Mc-Doc/1.x/contributing.md"}'),c={name:"docs/Mc-Doc/1.x/contributing.md"},e=[r("p",null,"contributing",-1)];const i=t(c,[["render",function(t,r,a,c,i,s){return o(),n("div",null,e)}]]);export{a as __pageData,i as default};

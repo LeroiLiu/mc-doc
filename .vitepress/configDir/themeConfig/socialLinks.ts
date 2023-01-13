@@ -1,3 +1,3 @@
 export default [
-  { icon: 'github', link: 'https://github.com/LeroiLiu/mc-document' }
+  { icon: 'github', link: 'https://github.com/LeroiLiu/mc-doc' }
 ]

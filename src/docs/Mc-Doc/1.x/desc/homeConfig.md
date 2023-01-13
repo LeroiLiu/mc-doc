@@ -1,11 +1,17 @@
+# 主页配置
+
+> 可以参考`vitepress`的主页配置方式进行配置，也可以按照如下模板进行配置。
+
+```
+
 ---
 layout: page
 title: 快捷开发文档
 ---
 
 <script lang="ts" setup>
-import versions from '@theme/../versions';
-import {withBase} from 'vitepress';
+import versions from '@theme/../versions'
+import {withBase} from 'vitepress'
 
 let latestVersion = versions[0]
 
@@ -32,7 +38,7 @@ let latestVersion = versions[0]
         <code
           class="text-gray-700 bg-transparent flex items-center"
         >
-          $ git clone https://github.com/LeroiLiu/mc-doc.git
+          $ composer require xxxxxxxx
         </code>
       </div>
       <a
@@ -92,3 +98,6 @@ let latestVersion = versions[0]
     </a>
   </div>
 </section>
+
+
+```
